@@ -16,7 +16,7 @@ An ERD diagram is included to illustrate the database schema and table relations
 
 ---
 
-![ERD Scratch]([amazon_erd.pgerd](https://github.com/shivansh314/Amazon-Sales-Analysis-Project/blob/main/erd.png))
+![Image](https://github.com/user-attachments/assets/3741d9ee-15cd-4a38-a779-5c9f2d8822f6)
 
 ## **Database Setup & Design**
 
